@@ -1,0 +1,27 @@
+ O volume na unidade C n∆o tem nome.
+ O N£mero de SÇrie do Volume Ç 96DD-7B11
+
+ Pasta de C:\Users\AVELL\Dropbox\GGJ2013\FlyingRats\src\flyingRats\MapEditor\Path
+
+27/01/2013  00:24               433 Baixo.png
+27/01/2013  00:24             2.962 bifurcacao.png
+27/01/2013  00:24             3.640 bifurcacao1.png
+27/01/2013  00:24             3.465 bifurcacao2.png
+27/01/2013  00:24             3.828 bifurcacaoT1.png
+27/01/2013  00:24             3.947 bifurcacaoT2.png
+27/01/2013  00:24             3.735 bifurcacaoT3.png
+27/01/2013  00:24             3.933 bifurcacaoT4.png
+27/01/2013  00:24               428 Cima.png
+27/01/2013  00:24               446 Direita.png
+27/01/2013  00:24               490 EndPoint.png
+27/01/2013  00:24               464 Esquerda.png
+27/01/2013  01:40             1.284 PlaceHolder_Baixo.png
+27/01/2013  01:40             1.361 PlaceHolder_Cima.png
+27/01/2013  01:40             1.274 PlaceHolder_Dir.png
+27/01/2013  01:40             1.241 PlaceHolder_Esq.png
+27/01/2013  00:24             3.640 SpawnPoint_Baixo.png
+27/01/2013  00:24             3.740 SpawnPoint_Cima.png
+27/01/2013  00:24             3.942 SpawnPoint_Dir.png
+27/01/2013  00:24             3.956 SpawnPoint_Esq.png
+              20 arquivo(s)         48.209 bytes
+               0 pasta(s)   166.273.736.704 bytes dispon°veis
